@@ -1,0 +1,5 @@
+rootProject.name = 'locadora'
+
+include ':app'
+include ':lib'
+
