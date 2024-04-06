@@ -1,0 +1,11 @@
+plugins {
+    id 'java-library'
+}
+
+dependencies{
+    //Dependencia do PstgreSQL
+    implementation 'org.postgresql:postgresql:42.7.3'
+}
+
+
+description = 'lib'
